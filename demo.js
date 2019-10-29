@@ -8,6 +8,7 @@ document.body.addEventListener("click", function(e) {
         target.getAttribute('class').indexOf('liga') === -1) {
         target.select();
     }
+	console.log('hai');
 });
 
 (function() {
