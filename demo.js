@@ -9,6 +9,7 @@ document.body.addEventListener("click", function(e) {
         target.select();
     }
 	console.log('hai');
+	console.log('huy');
 });
 
 (function() {
